@@ -1,13 +1,13 @@
 <h1 align="center">Hey! I'm Bhavyasri</h1>
 <h3 align="center">Organizing Member @HOPE CLUB VJIT | GSSoC '25 Contributor | Open source | Technical Team Member @Web Technologies Club | Information Technology | Web Development </h3>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/apuri-bhavya-sri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-###
+
 
 ----
 
