@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Bhavyasri</h1>
-<h3 align="center">Organizing Member @HOPE CLUB VJIT | GSSoC '25 Contributor | Open source | Technical Team Member @Web Technologies Club | Information Technology | Web Development </h3>
+<h3 align="center">GSSoC '25 Contributor | Open source | Technical Team Member @Web Technologies Club | Information Technology | Web Development </h3>
 <div align="center">
   <h2>✨About Me</h2>
   <p>Hi! I'm Bhavya Sri, an undergraduate student at VJIT.🚀I'm passionate about technology and always eager to explore new tools and ideas. I enjoy collaborating,and sharing knowledge with like-minded individuals. I'm always open to learning, growing, and building meaningful connections. Let's connect and create something amazing!</p>
