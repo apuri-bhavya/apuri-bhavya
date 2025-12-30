@@ -7,9 +7,11 @@
 
 <div align="center">
   <h2>Where to find me</h2>
-  <a href="https://www.linkedin.com/in/apuri-bhavya-sri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/apuri-bhavya-sri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>  <a href="https://discord.com/users/1350037313237024791" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" /></a>
+</div>
+
+
 </div>
 <div>
 
