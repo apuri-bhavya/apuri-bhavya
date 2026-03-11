@@ -25,6 +25,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="margin-right: 12px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" style="margin-right: 12px;" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="margin-right: 12px;" />
+   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="vercel logo" style="margin-right: 12px;" />
  </div>
   
 </div>
